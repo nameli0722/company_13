@@ -16,7 +16,7 @@ HOST = "192.168.0.5"
 USER = 'root'
 PORT = 3306
 PASSWORD = "root"
-DATABASE_1 = "rcmd"
+# DATABASE_1 = "rcmd"
 DATABASE_2 = "reco"
 
 
